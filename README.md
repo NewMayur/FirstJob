@@ -19,7 +19,7 @@ For those who lack a computer science degree, prestigious university tag, and pr
 
 🎉 We love contributions! Whether you're just starting out or you're a seasoned pro, your input is invaluable. To contribute:
 
-For detailed guidelines, check out our [Contributing Guide](CONTRIBUTING.md).
+Just create a new branch, add new content or update the existing one and hit PR. Your contribution will be soon merged once quickly reviewed.
 
 ---
 
