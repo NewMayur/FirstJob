@@ -18,9 +18,7 @@ For those who lack a computer science degree, prestigious university tag, and pr
 ![Flywheel](https://github.com/NewMayur/FirstJob/assets/70254449/b0413303-afec-489b-91f4-83dd7dde4477)
 
 ### DevWall - Dashboard to work on different areas
-
-![DevWall](https://github.com/NewMayur/FirstJob/assets/70254449/35c86286-107b-4964-8fa8-533ac1a19fe3)
-
+![DevWall](https://github.com/NewMayur/FirstJob/assets/70254449/7199555c-b5d8-4b9a-8409-182b38406adf)
 
 ## 🤝 Contributing
 
