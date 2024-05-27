@@ -1,3 +1,6 @@
 [submodule "SpacedRepetition/LLD/LLD1---TodoList"]
 	path = SpacedRepetition/LLD/LLD1---TodoList
 	url = https://github.com/NewMayur/LLD1---TodoList.git
+[submodule "SpacedRepetition/LLD/LLD-Challenge---Tic-Tac-Toe"]
+	path = SpacedRepetition/LLD/LLD-Challenge---Tic-Tac-Toe
+	url = https://github.com/NewMayur/LLD-Challenge---Tic-Tac-Toe.git
