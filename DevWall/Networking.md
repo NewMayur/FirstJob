@@ -8,6 +8,6 @@ It's a numbers game: the more people you approach, the higher your chances of bu
 
 But maintaining relationships on this scale isn't easy. That's why we've designed this Networking tracker to help you manage all connections, messages, and follow-up reminders to nurture these relationships effectively.
 
-🔗 [Notion Template To Duplicate](https://www.notion.so/neworange/Networking-b04aadb9555f47f5889a98adf3eb9f8a?pvs=4)
+🔗 [Notion Template To Duplicate](https://www.notion.so/neworange/Networking-35a397e15b474a8897c7994c4c9b04bf?pvs=4)
 
 ![image](https://github.com/NewMayur/FirstJob/assets/70254449/89d108d7-f4e3-4d64-ab55-51b31a14ce27)
